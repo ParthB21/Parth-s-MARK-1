@@ -20,7 +20,7 @@ Figure 2: This is a screenshot of the PCB
 <br>
 Figures 3,4,5: Screenshots of the Case
 <br>
-## I used KiCad for the PCB design, OnShape for the CAD design and VSCode for the KMK firmware.
+I used KiCad for the PCB design, OnShape for the CAD design and VSCode for the KMK firmware.
 <br>
 
 ## BOM:
