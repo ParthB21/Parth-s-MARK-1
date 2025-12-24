@@ -22,11 +22,3 @@ Figures 3,4,5: Screenshots of the Case
 <br>
 I used KiCad for the PCB design, OnShape for the CAD design and VSCode for the KMK firmware.
 <br>
-
-## BOM:
-4x Cherry MX Switches
-2x SK6812 MINI Leds
-1x XIAO RP2040
-4x Blank DSA Keycaps
-1x EC11 Rotary Encoder
-1x 0.91 inch OLED displays
