@@ -27,11 +27,12 @@ This is a screenshot of the PCB
 <br>
 Screenshots of the bottom case
 <br>
-
+<br>
 <img width="681" height="478" alt="image" src="https://github.com/user-attachments/assets/9b2f988e-8e0d-44ce-8623-0c8d579c81c0" />
+<br>
 Screenshot of the top case
 <br>
-
+<br>
 <img width="761" height="525" alt="image" src="https://github.com/user-attachments/assets/1c4033d6-8c7c-4339-90dc-747d053b6181" />
 <br>
 
