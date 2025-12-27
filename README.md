@@ -21,11 +21,11 @@ This is a screenshot of the schematic
 <br>
 This is a screenshot of the PCB
 <br>
-<img width="1040" height="709" alt="image" src="https://github.com/user-attachments/assets/21f2a916-0d55-4537-bf88-6816a3f5bd83" />
+<img width="707" height="490" alt="image" src="https://github.com/user-attachments/assets/50e075c8-b711-4b65-be6d-380d7650a15f" />
 <br>
-<img width="1124" height="663" alt="image" src="https://github.com/user-attachments/assets/612bbeec-75e2-4ee2-9a68-dd931f831117" />
+<img width="726" height="453" alt="image" src="https://github.com/user-attachments/assets/bd54a013-a8cd-4e1b-9731-61461c8d4f1c" />
 <br>
-<img width="658" height="439" alt="image" src="https://github.com/user-attachments/assets/797a3593-5b34-476c-83b7-7a0a1a3546ca" />
+<img width="672" height="458" alt="image" src="https://github.com/user-attachments/assets/df92cef2-4173-4cdc-a3ae-9b84058e9fdb" />
 <br>
 Screenshots of the bottom case (blue)
 <br>
