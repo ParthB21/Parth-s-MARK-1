@@ -1,5 +1,7 @@
 # Parth-s-MARK-1
 
+## Edit: this repository has been edited after feedback to include the BOM in CSV format and a Top case.
+
 This is my first hackpad. It includes 4 switches, 1 rotary encoder and 1 OLED Display. The main MCU is Seeed XIAO RP2040. I would like to thank ScottoKeebs for providing some of the symbols and footprints.
 <br> <br><br>
 Descriptions of folders in this repository:
@@ -25,12 +27,12 @@ This is a screenshot of the PCB
 <br>
 <img width="658" height="439" alt="image" src="https://github.com/user-attachments/assets/797a3593-5b34-476c-83b7-7a0a1a3546ca" />
 <br>
-Screenshots of the bottom case
+Screenshots of the bottom case (blue)
 <br>
 <br>
 <img width="681" height="478" alt="image" src="https://github.com/user-attachments/assets/9b2f988e-8e0d-44ce-8623-0c8d579c81c0" />
 <br>
-Screenshot of the top case
+Screenshot of the top case (orange)
 <br>
 <br>
 <img width="761" height="525" alt="image" src="https://github.com/user-attachments/assets/1c4033d6-8c7c-4339-90dc-747d053b6181" />
@@ -43,6 +45,8 @@ Screenshots of assembled Case and PCB
 <br>
 <br>
 
+Note: The colors in the images are for easier differentiation between the top and the bottom case and are not the actual colous of the 3D printed parts.
+<br>
 
 I used KiCad for the PCB design, OnShape for the CAD design and VSCode for the KMK firmware.
 <br>
