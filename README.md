@@ -40,5 +40,9 @@ Screenshot of the top case
 <br>
 Screenshots of assembled Case and PCB
 <br>
+<br>
+<br>
+
+
 I used KiCad for the PCB design, OnShape for the CAD design and VSCode for the KMK firmware.
 <br>
