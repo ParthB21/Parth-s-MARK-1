@@ -1,7 +1,7 @@
 # Parth-s-MARK-1
 
 This is my first hackpad. It includes 4 switches, 1 rotary encoder and 1 OLED Display. The main MCU is Seeed XIAO RP2040. I would like to thank ScottoKeebs for providing some of the symbols and footprints.
-<br>
+<br> <br><br>
 Descriptions of folders in this repository:
 <br>
 CAD: Includes top and bottom parts in separate for 3D printing. Includes the assembled file to check dimensions.
